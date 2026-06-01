@@ -3,6 +3,7 @@
 [![npm: astro-fora](https://img.shields.io/npm/v/astro-fora?label=astro-fora&color=blue)](https://www.npmjs.com/package/astro-fora)
 [![npm: create-fora](https://img.shields.io/npm/v/create-fora?label=create-fora&color=blue)](https://www.npmjs.com/package/create-fora)
 [![npm: fora-eleventy-plugin](https://img.shields.io/npm/v/fora-eleventy-plugin?label=fora-eleventy-plugin&color=blue)](https://www.npmjs.com/package/fora-eleventy-plugin)
+[![Gem: jekyll-fora](https://img.shields.io/gem/v/jekyll-fora?label=jekyll-fora&color=red)](https://rubygems.org/gems/jekyll-fora)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Official framework integrations for [Fora](https://giga.mobile) — the fastest embeddable comment system, built on Cloudflare's edge.
